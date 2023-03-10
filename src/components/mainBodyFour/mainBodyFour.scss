@@ -1,0 +1,21 @@
+.mainBodyFour{
+    display: flex;
+    margin: 0px 30px;
+
+    .mainBodyFourWrapper{
+        display: flex;
+        gap: 25px;
+
+        .styleOne1{
+            flex: 4;
+        }
+
+        .styleTwo2{
+            flex: 4;
+        }
+
+        .styleThree3{
+            flex: 4;
+        }
+    }
+}
